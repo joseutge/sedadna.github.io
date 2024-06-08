@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            SedaDNA Scientific Society
-tagline:          'The sedaDNA scientific society'
-description:      'The international network of sedaDNA research'
+title:            aDNA Labs Network
+tagline:          'The aDNA Labs network'
+description:      'The international network of aDNA Labs'
 url:              https://sedadna.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Eric Capo'
+  name:           'Jose Utge'
   url:           
 
 paginate:         5
